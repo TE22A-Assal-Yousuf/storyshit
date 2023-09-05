@@ -1,0 +1,14 @@
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\bin\Debug\net7.0\storyshit.exe
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\bin\Debug\net7.0\storyshit.deps.json
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\bin\Debug\net7.0\storyshit.runtimeconfig.json
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\bin\Debug\net7.0\storyshit.dll
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\bin\Debug\net7.0\storyshit.pdb
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\obj\Debug\net7.0\storyshit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\obj\Debug\net7.0\storyshit.AssemblyInfoInputs.cache
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\obj\Debug\net7.0\storyshit.AssemblyInfo.cs
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\obj\Debug\net7.0\storyshit.csproj.CoreCompileInputs.cache
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\obj\Debug\net7.0\storyshit.dll
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\obj\Debug\net7.0\refint\storyshit.dll
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\obj\Debug\net7.0\storyshit.pdb
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\obj\Debug\net7.0\storyshit.genruntimeconfig.cache
+C:\Users\yousuf.assal\Documents\spelutväckling\storyshit\storyshit\obj\Debug\net7.0\ref\storyshit.dll
